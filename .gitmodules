@@ -1,6 +1,3 @@
 [submodule "multi_branch"]
 	path = multi_branch
 	url = git@github.com:viernes/multi_branch.git
-[submodule "branch_account"]
-	path = branch_account
-	url = git@github.com:viernes/branch_account.git
